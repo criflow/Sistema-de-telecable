@@ -15,7 +15,7 @@ int main()
     int precioPorCaja[10] = {100, 150, 200, 300};
     int paqueteDeCanales[10] = {5, 10, 15, 20};
 
-    //Clientes
+    //Clientes Watelll
     int clientesLength = 5;
     string clientes[50] = {"Pedro", "Jose", "Estephany", "Saul", "Anabel"};
     int cedula[50] = {13520314789, 51234756932, 13604893265, 635586901275}; //las cedulas tienen 11 numeros
